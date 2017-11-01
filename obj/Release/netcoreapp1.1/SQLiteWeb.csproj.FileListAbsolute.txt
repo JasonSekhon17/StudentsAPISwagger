@@ -1,0 +1,12 @@
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\bin\Release\netcoreapp1.1\SQLiteWeb.db
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\bin\Release\netcoreapp1.1\SQLiteWeb.deps.json
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\bin\Release\netcoreapp1.1\SQLiteWeb.runtimeconfig.json
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\bin\Release\netcoreapp1.1\SQLiteWeb.runtimeconfig.dev.json
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\bin\Release\netcoreapp1.1\SQLiteWeb.dll
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\bin\Release\netcoreapp1.1\SQLiteWeb.pdb
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\obj\Release\netcoreapp1.1\SQLiteWeb.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\obj\Release\netcoreapp1.1\SQLiteWeb.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\obj\Release\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\obj\Release\netcoreapp1.1\SQLiteWeb.AssemblyInfo.cs
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\obj\Release\netcoreapp1.1\SQLiteWeb.dll
+C:\Users\Jason\Desktop\lab7\SQLiteWeb\obj\Release\netcoreapp1.1\SQLiteWeb.pdb
